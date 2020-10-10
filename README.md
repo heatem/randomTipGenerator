@@ -1,7 +1,7 @@
 # Random Tip Generator
 
 ## DESCRIPTION
-This project shows visitors a random life quote when they click a button. It uses HTML, CSS, and JavaScript.
+This project shows visitors a random tip when they click a button. It uses HTML, CSS, and JavaScript.
 
 ## CONTRIBUTING
 1. Everyone is welcome to contribute!
