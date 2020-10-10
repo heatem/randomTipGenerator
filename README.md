@@ -1,4 +1,4 @@
-<h1 align="center">Random Tip Generator</h1>
+# Random Tip Generator
 
 ## DESCRIPTION
 This project shows visitors a random life quote when they click a button. It uses HTML, CSS, and JavaScript.
